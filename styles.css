@@ -1,0 +1,46 @@
+.navbar-custom-color {
+  background-color: #4D9BA6;
+}
+
+.grey-row {
+  background-color: lightgrey;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.grey-row h2 {
+  color: #4c4b4a;
+}
+
+.grey-row p {
+  color: #4c4b4a;
+}
+
+.body-content {
+  padding: 10px;
+}
+.body-content h3 {
+  color: #4D9BA6;
+}
+.orange-bar {
+  background-color: #DA7A22;
+  padding-bottom: 0px;
+}
+.orange-bar span {
+  color: ghostwhite;
+}
+/* Categories Page Styling*/
+
+.grey-blocks {
+  color: #4c4b4a;
+}
+
+.grey-blocks .col {
+  background-color: lightgrey;
+  margin: 10px;
+  padding: 100px;
+  text-align: center;
+}
+.grey-blocks p {
+  color: grey;
+}
